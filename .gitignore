@@ -1,0 +1,12 @@
+# Visual Studio
+src/**/bin/
+src/**/obj/
+*/.vs/
+*.csproj.user
+
+# ReSharper
+*.DotSettings.user
+_ReSharper.*/
+
+# Windows thumbnails
+Thumbs.db
