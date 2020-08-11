@@ -7,7 +7,9 @@
 
 1. a transcendent state of the .NET programmer's mind, in which there is neither suffering, confusion, nor waste of time.
 
-2. an open source project, aiming to help .NET programmers achieve the above.
+2. a collection of open-source methods and processes to help .NET programmers achieve Buildvana.
+
+3. a collection of open-source projects supporting programmers that aim to reach Buildvana.
 
 ---
 
@@ -22,9 +24,11 @@
 
 ## What is Buildvana
 
+Buildvana is, first of all, a state of mind. You have reached Buildvana when your toolchain works for you, not against you; when said toolchain is mostly invisible and can be configured in a simple and reliable manner using just text files; when you may concentrate on writing software, not scripts - and still deploy like a pro, with good practices automatically implemented for you.
+
 The Buildvana project is an effort to achieve out-of-the-box, automated DevOps for .NET projects, enforcing good practices while avoiding any waste of time.
 
-It includes a [MSBuild SDK](https://github.com/Buildvana/Buildvana.Sdk) and a series of template repositories to get a new project completely set up in no time.
+It includes a [MSBuild SDK](https://github.com/Buildvana/Buildvana.Sdk), a series of template repositories to get new projects set up in no time, and this repository to hold documentation about the projects, as well as the methods and processes involved.
 
 All Buildvana projects are released under the [MIT license](LICENSE).
 
